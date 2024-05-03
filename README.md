@@ -80,15 +80,4 @@ MERN-Project/
   - express: ^4.17.2
   - mongoose: ^6.2.1
 
-## Contributing
 
-Contributions are welcome! Please see our [Contribution Guidelines](CONTRIBUTING.md) for details on how to contribute to this project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Additional Information
-
-- For more information, check out the [documentation](docs/) directory.
-- Visit our [website](https://example.com) for live demo and additional resources.
